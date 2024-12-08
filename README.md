@@ -3,12 +3,12 @@ We present AI-VFM, a new vector flow mapping (VFM) method enabled by recent adva
 # Data
 Please download the following computational fluid dynamics validation [data](https://drive.google.com/drive/folders/1zjpoTHym4fZzLpfVVgzvdCT02a8nTvV2?usp=sharing) and save it to the local directory for use in the AI-VFM code.
 # Citation
-@article{maidu2024,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Super-resolution Left Ventricular Flow and Pressure Mapping by Navier-Stokes-Informed Neural Networks},  
+@article{maidu2024super,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Super-resolution left ventricular flow and pressure mapping by Navier-Stokes-informed neural networks},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Maidu, Bahetihazi and Martinez-Legazpi, Pablo and Guerrero-Hurtado, Manuel and Nguyen, Cathleen M. and Gonzalo, Alejandro and Kahn, Andrew M. and Bermejo, Javier and Flores, Oscar and del Alamo, Juan C.},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={Computers in Biology and Medicine},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume={},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number={},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;page={},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2025}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2025}  
 }
