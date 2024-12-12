@@ -12,11 +12,3 @@ Please download the following computational fluid dynamics validation [data](htt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doi={https://doi.org/10.1016/j.compbiomed.2024.109476},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2025}  
 }
-
-@article{maidu2024super,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Super-resolution left ventricular flow and pressure mapping by Navier-Stokes-informed neural networks},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Maidu, Bahetihazi and Martinez-Legazpi, Pablo and Guerrero-Hurtado, Manuel and Nguyen, Cathleen M. and Gonzalo, Alejandro and Kahn, Andrew M. and Bermejo, Javier and Flores, Oscar and del Alamo, Juan C.},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={bioRxiv},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doi={10.1101/2024.04.12.589319},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2024}  
-}
